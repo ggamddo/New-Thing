@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&amp;family=Mitr&amp;family=Trirong:wght@300&amp;display=swap"
+
+      rel="stylesheet">
+  </head>
+  <body>
+    <div class="container-fluid my-bbbg">
+      <br>
+      <div class="row my-bbg py-3 mx-0">
+        <h1 class="text-center">Hello, my love.</h1>
+      </div>
+      <br>
+      <div class="row my-bg py-3 mx-0">
+        <!-- Button trigger modal --> <button type="button" class="btn btn-primary"
+
+          data-bs-toggle="modal" data-bs-target="#exampleModal">
+          การสอบปลายภาคเทอมต้น </button>
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+
+          aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">
+                  การสอบปลายภาค </h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+
+                  aria-label="Close"></button> </div>
+              <div class="modal-body">
+                <p>จะทำได้มั้ยยย </p>
+              </div>
+              <div class="modal-footer"> <button type="button" class="btn btn-success"
+
+                  data-bs-dismiss="modal">
+                  <p> Close</p>
+                </button> <button type="button" class="btn btn-info">
+                  <p> Save changes </p>
+                </button> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class="row my-bbg mx-0 py-2">
+        <nav class="navbar navbar-expand-lg bg-light">
+          <div class="container-fluid"> <a class="navbar-brand" href="#"> <h1>EXO </h1></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+
+              data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+
+              aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item"> <a class="nav-link active" aria-current="page"
+
+                    href="file:///C:/Users/acer/Documents/436301/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3/index.html#e1">
+                    <h3>DKS</h3>
+                  </a> </li>
+                <li class="nav-item"> <a class="nav-link" href="file:///C:/Users/acer/Documents/436301/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3/index.html#b1">
+                    <h3> BBH</h3>
+                  </a> </li>
+                <li class="nav-item"> <a class="nav-link" href="file:///C:/Users/acer/Documents/436301/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3/index.html#c1">
+                    <h3>PCY</h3>
+                  </a> </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <br>
+      
+      <div class="row my-bg mx-0 py-2">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation"> <button class="nav-link active"
+
+              id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane"
+
+              type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">
+              <h4> Kyungsoo </h4>
+            </button> </li>
+          <li class="nav-item" role="presentation"> <button class="nav-link" id="profile-tab"
+
+              data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button"
+
+              role="tab" aria-controls="profile-tab-pane" aria-selected="false">
+              <h4>Baekhyun </h4>
+            </button> </li>
+          <li class="nav-item" role="presentation"> <button class="nav-link" id="contact-tab"
+
+              data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button"
+
+              role="tab" aria-controls="contact-tab-pane" aria-selected="false">
+              <h4>Chanyeol </h4>
+            </button> </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+          <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel"
+
+            aria-labelledby="home-tab" tabindex="0">
+            <p class="py-2">ในปี 2017
+              ดี.โอ.ได้แสดงนำในภาพยนตร์ระทึกขวัญตลกเรื่อง Room No.7
+              ในปีเดียวกันเขาได้รับบทนักแสดงสมทบในภาพยนตร์ของ คิม ยง-ฮวา เรื่อง
+              ฝ่า 7 นรกไปกับพระเจ้า
+              ซึ่งเป็นการดัดแปลงจากการ์ตูนทางอินเทอร์เน็ตเรื่อง Along with the
+              Gods
+              เนื้อเรื่องเกี่ยวกับการผจญภัยฝ่าแดนปรโลกทั้งเจ็ดเพื่อส่งดวงวิญญาณภายในเวลา
+              49 วัน </p>
+          </div>
+          <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
+
+            tabindex="0">
+            <p class="py-2">
+              แบ็กฮย็อนปรากฏตัวอย่างเป็นทางการว่าเป็นสมาชิกคนที่เก้าของเอ็กโซ
+              เมื่อวันที่ 30 มกราคม ค.ศ. 2012
+              โดยวงได้เปิดตัวอย่างเป็นทางการในเดือนเมษายน ค.ศ. 2012
+              และหลังจากนั้นเป็นต้นมาวงได้รับความนิยมเป็นอย่างมากและประสบความสำเร็จในเชิง
+              พาณิชย์ </p>
+          </div>
+          <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
+
+            tabindex="0">
+            <p class="py-2"> เกิดในโซล ประเทศเกาหลีใต้
+              ชันย็อลมีพี่สาวอยู่หนึ่งคน
+              ปัจจุบันพี่สาวของชันย็อลทำงานเป็นผู้ประกาศข่าวฝึกหัดอยู่ ในปี 2551
+              ชันย็อลได้ไปรับการคัดเลือกการประกวดของเอสเอ็มและชันย็อลใช้เวลา
+              ประมาณ 4 ปีในการฝึกฝน
+              ก่อนจะเป็นนักร้องชันย็อลเคยร่วมแสดงมิวสิกวิดีโอเพลง Genie
+              (รุ่นภาษาญี่ปุ่น) ของเกิลส์เจเนอเรชัน ตำแหน่งในวง คือ ร้อง แร็ป
+              เต้น </p>
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="row my-bbg mx-0 py-3"> <img class=" px-3 my-2 " src="images/flo2.jpg"
+
+          alt="flo2"></div>
+      <br>
+      <div class="row">
+        <p> <a id="e1">EXO</a> member D.O., also known as Do Kyung-soo, has
+          been discharged from mandatory military service on Monday, January 25
+          after enlisting in July 1, 2019. According to a Soompi report, D.O.
+          thanked his fans for their patience via a message on fan community
+          Lysn. </p>
+      </div>
+      <div class="row">
+        <p> <a id="b1">EXO singer Baekhyun</a> has been officially discharged
+          from mandatory military service, and returned with a special
+          livestream to commemorate the occasion. </p>
+      </div>
+      <div class="row">
+        <p> <a id="c1">Chanyeol</a> is now the 5th member of EXO to
+          successfully complete his mandatory military service. Fellow member
+          Baekhyun is scheduled to be discharged from his duties as a public
+          service worker in February of 2023. </p>
+      </div>
+      <br>
+      <div class="row my-bg py-3 mx-0">
+        <div class="accordion" id="accordionExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne"> <button class="accordion-button"
+
+                type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+
+                aria-expanded="true" aria-controls="collapseOne"> โดคยองซูจ้า </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+
+              data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong>
+                  <p> ต้องใช้เงินเท่าไหร่รวมการจ้างกดบัตรคอนเสิร์ตของพี่คะ
+                    อยากฟังพี่โด้ร้องเพลงค่าแอดลิปแบบสามล้านชั้นให้เป็นบุญหูค่ะ
+                  </p>
+                </strong> </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo"> <button class="accordion-button collapsed"
+
+                type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+
+                aria-expanded="false" aria-controls="collapseTwo">
+                บยอนแบคฮยอนจ้า</button></h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+
+              data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong>
+                  <p> เมื่อไหร่จะมาร้องยูเอ็นวิลเลจที่ประเทศไทยคะ
+                    มาเถอะค่ะอยากฟังแต่เอาเพื่อนมาด้วยนะคะมาให้ครบทั้งวงค่ะ </p>
+                </strong></div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree"> <button class="accordion-button collapsed"
+
+                type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+
+                aria-expanded="false" aria-controls="collapseThree">ปาร์คชานยอ
+                ลจ้า </button> </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+
+              data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong>
+                  <p>ทุกคนอย่าแยกย้ายกันได้มั้ยคะ เราไม่สบายใจเลยค่ะ
+                    แต่ออกจากเอสเอมได้ค่ะแต่ห้ามแยกกันนะคะหัวใจน้องมันทรมาน</p>
+                </strong> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="row my-bbg py-3 mx-0 ">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+          <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+
+              aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide-to="2" aria-label="Slide 3"></button> <button type="button"
+
+              data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active my-border "> <img src="images/nanami.jpg"
+
+                class="d-block w-100" alt="nanami"> </div>
+            <div class="carousel-item my-border "> <img src="images/tulip1.jpg"
+
+                class="d-block w-100" alt="tu1"> </div>
+            <div class="carousel-item my-border"> <img src="images/kyungsoo.jpg"
+
+                class="d-block w-100" alt="kyung"> </div>
+            <div class="carousel-item my-border"> <img src="images/tulip2.jpg"
+
+                class="d-block w-100" alt="tu2"> </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+
+            data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
+
+            type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span> </button> </div>
+      </div>
+      <br>
+      <br>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+
+crossorigin="anonymous"></script>
+  </body>
+</html>

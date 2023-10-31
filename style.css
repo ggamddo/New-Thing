@@ -1,0 +1,44 @@
+.my-bg {
+  background-color: lightblue;
+}
+
+.my-bbg {
+  background-color: lightpink;
+}
+
+.my-bbbg {
+  background-color: #DAB9E6;
+}
+
+.my-border{
+  border-style: solid;
+  border-color:grey; 
+}
+
+h1{
+  font-family: 'Mitr', sans-serif;
+}
+
+h2{
+font-family: 'Kanit', sans-serif;
+}
+
+h3{
+font-family: 'Kanit', sans-serif;
+  color: purple;
+}
+  
+h4{
+font-family: 'Kanit', sans-serif;
+  color: black;
+}
+  
+
+p{
+  font-family: 'Trirong', serif;
+}
+  
+  
+  
+  
+
